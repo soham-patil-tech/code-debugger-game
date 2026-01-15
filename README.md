@@ -56,7 +56,7 @@ code-debugger-game/
 
 ## ▶️ How to Run the Game
 
-1️⃣ Clone the Repository
+```1️⃣ Clone the Repository```
 
 ```bash
 git clone https://github.com/soham-patil-tech/code-debugger-game.git 
