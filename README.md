@@ -40,15 +40,18 @@ Instead of solving MCQs, players write real Python code.
 
 ## 📂 Project Structure
 
+```
 code-debugger-game/
-├── main.py # Game flow & user interaction
-├── levels.py # Buggy code levels
-├── checker.py # Code execution & output checking
-├── utils.py # Score handling utilities
+├── main.py          # Game flow & user interaction
+├── levels.py        # Buggy code levels
+├── checker.py       # Code execution & output checking
+├── utils.py         # Score handling utilities
 ├── requirements.txt # Project dependencies
-├── .gitignore # Ignored files & folders
+├── .gitignore       # Ignored files & folders
 └── data/
-└── scores.txt # Stores previous scores (ignored in Git)
+    └── scores.txt   # Stores previous scores (ignored in Git)
+```
+
 
 
 ## ▶️ How to Run the Game
