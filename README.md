@@ -60,12 +60,11 @@ code-debugger-game/
 
 ```bash
 git clone https://github.com/soham-patil-tech/code-debugger-game.git 
-
+```
 
 
 2️⃣ Navigate to the Project Folder
-cd code-debugger-game
+```cd code-debugger-game```
 
 3️⃣ Run the Game
-py main.py 
-```
+```py main.py ```
