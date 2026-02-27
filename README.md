@@ -21,7 +21,6 @@ Instead of solving MCQs, players write real Python code.
 - 🧩 Multiple debugging levels  
 - 🧠 Real Python code execution using `exec()`  
 - ✅ Output validation for correctness  
-- 🏆 Score system with persistent storage  
 - 📁 Clean, modular project structure  
 
 ---
