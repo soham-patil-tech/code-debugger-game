@@ -30,7 +30,6 @@ Instead of solving MCQs, players write real Python code.
 - Language: Python 3  
 - Concepts Used:
   - File handling
-  - Exception handling
   - Dynamic code execution
   - Modular programming
   - Git & GitHub
